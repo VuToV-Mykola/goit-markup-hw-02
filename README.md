@@ -4,7 +4,7 @@
 [![📊 Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/goit-markup-hw-02/main/assets/db/visitors-badge.json)](https://github.com/VuToV-Mykola/goit-markup-hw-02/graphs/traffic)
 [![⭐ Stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/goit-markup-hw-02/main/assets/db/likes-badge.json)](https://github.com/VuToV-Mykola/goit-markup-hw-02/actions/workflows/screenshot-and-visitor.yaml)
 [![📦 Size](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/goit-markup-hw-02/main/assets/db/repo-size.json)](https://github.com/VuToV-Mykola/goit-markup-hw-02)
-[![📝 Language](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/goit-markup-hw-02/main/assets/db/repo-language.json)](https://github.com/VuToV-Mykola/goit-markup-hw-02)
+[![🔤 Language](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/goit-markup-hw-02/main/assets/db/repo-language.json)](https://github.com/VuToV-Mykola/goit-markup-hw-02)
 [![📄 License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/goit-markup-hw-02/main/assets/db/repo-license.json)](https://github.com/VuToV-Mykola/goit-markup-hw-02/blob/main/LICENSE)
 
 ## 📸 Latest Screenshot
